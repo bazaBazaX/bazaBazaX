@@ -1,4 +1,12 @@
-## Hi there 👋
+## Yo, there 👋
+
+I'm Andriy, and I'm a junior front-end developer. Currently I'm learning back-end to become a fullstack developer.
+
+- 🌱 I’m currently learning PHP.
+- 🔭 I’m currently working on [LoginSystem]https://github.com/bazaBazaX/LoginSystem.
+- 📫 My Telegram: @AndAndBaza, Instagram:andriy_riznytschenko.
+- 😄 I speak Ukrainian, Russian and English languages.
+- ⚡ Fun fact: PHP is better than JS. (Always has been)
 
 <!--
 **bazaBazaX/bazaBazaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
